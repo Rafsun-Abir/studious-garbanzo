@@ -4,10 +4,10 @@ goal of predicting passenger survival, given characteristics such as gender, age
 
 After analyzing this information, we should notice the following:
 
-Most passengers are in their 20's or 30's
-Most passengers are male
-Most passengers are in "Third" class
-Females have a much higher chance of survival
+Most passengers are in their 20's or 30's .
+Most passengers are male.
+Most passengers are in "Third" class.
+Females have a much higher chance of survival.
 
 And we now we have a model with a 74% accuracy (this will change each time)! Not crazy impressive but decent for our first try.
 
